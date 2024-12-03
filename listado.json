@@ -1,0 +1,12 @@
+[
+    {"nombre": "Pedro","puntaje": 9.5,"posicion": 5},
+    {"nombre": "Juan","puntaje": 2.7,"posicion": 148},
+    {"nombre": "Esteban","puntaje": 8.6,"posicion": 10},
+    {"nombre": "Julian","puntaje": 2,"posicion": 150},
+    {"nombre": "ana","puntaje": 8.09,"posicion": 20},
+    {"nombre": "Sandra","puntaje": 6.4,"posicion": 100},
+    {"nombre": "adrian","puntaje": 7.09,"posicion": 40},
+    {"nombre": "Roman","puntaje": 4.4,"posicion": 130},
+    {"nombre": "Blanca","puntaje": 9,"posicion": 30},
+    {"nombre": "Juana","puntaje": 3.2,"posicion": 140}
+]
